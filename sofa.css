@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #text2
+{
+font-size: 18px;
+}
+
+.back{
+    font-size : 18px;
+    position : fixed;
+    bottom : 0;
+}
+
+canvas{
+    box-shadow : 10px 10px 10px grey;
+    border-radius: 10px;
+}
